@@ -1,0 +1,15 @@
+###
+POST http://localhost:3000/envios
+Content-Type: application/json
+
+{
+    "destino": "Buenos Aires",
+    "email": "matiscacciante123@gmail.com"
+}
+###
+GET http://localhost:3000/envios/pendientes
+
+###
+PUT http://localhost:3000/envios/{idEnvio}/entregado
+
+

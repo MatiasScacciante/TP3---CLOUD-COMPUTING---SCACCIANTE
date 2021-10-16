@@ -1,0 +1,16 @@
+{
+  "name": "tp3-cloud-computing",
+  "version": "",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.998.0",
+    "hash-generator": "^0.1.0"
+  }
+}
